@@ -32,23 +32,15 @@ Nmap (Installable via package managers like apt, brew, or chocolatey)
 Installation
 Clone this repository:
 
-bash
-Copy code
 git clone https://github.com/yourusername/nmap-automation-tool.git
 Navigate to the project directory:
 
-bash
-Copy code
 cd nmap-automation-tool
 Ensure that Nmap is installed on your system. You can verify by running:
 
-bash
-Copy code
 nmap --version
 Run the application:
 
-bash
-Copy code
 python3 nmap_automation_tool.py
 Usage
 Launch the application by running the Python script.
